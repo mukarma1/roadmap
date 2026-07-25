@@ -22,12 +22,12 @@
 ## Week 1: Environment Setup & JavaScript Fundamentals
 
 ### Day 1 - Installation
-- [ ] Download and install Node.js
-- [ ] Install VS Code
-- [ ] Install Git
-- [ ] Create GitHub account
-- [ ] Create `backend-roadmap` repo
-- [ ] Clone repo locally
+- [x] Download and install Node.js
+- [x] Install VS Code
+- [x] Install Git
+- [x] Create GitHub account
+- [x] Create `backend-roadmap` repo
+- [x] Clone repo locally
 
 ### Day 2 - Variables & Data Types
 - [ ] Learn `let`, `const`, `var`
