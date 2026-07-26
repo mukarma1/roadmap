@@ -39,10 +39,10 @@
 - [x] Practice 10 operator examples
 
 ### Day 4 - Functions
-- [ ] Learn function declaration vs expression
-- [ ] Learn parameters, arguments, return values
-- [ ] Write 5 simple functions
-- [ ] Learn arrow functions
+- [x] Learn function declaration vs expression
+- [x] Learn parameters, arguments, return values
+- [x] Write 5 simple functions
+- [x] Learn arrow functions
 
 ### Day 5 - Arrays
 - [ ] Learn array creation
