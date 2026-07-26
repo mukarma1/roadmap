@@ -30,13 +30,13 @@
 - [x] Clone repo locally
 
 ### Day 2 - Variables & Data Types
-- [ ] Learn `let`, `const`, `var`
-- [ ] Learn string, number, boolean, null, undefined
-- [ ] Write 10 variable examples
+- [x] Learn `let`, `const`, `var`
+- [x] Learn string, number, boolean, null, undefined
+- [x] Write 10 variable examples
 
 ### Day 3 - Operators
-- [ ] Learn arithmetic, comparison, logical operators
-- [ ] Practice 10 operator examples
+- [x] Learn arithmetic, comparison, logical operators
+- [x] Practice 10 operator examples
 
 ### Day 4 - Functions
 - [ ] Learn function declaration vs expression
