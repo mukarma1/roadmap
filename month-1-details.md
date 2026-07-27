@@ -45,10 +45,10 @@
 - [x] Learn arrow functions
 
 ### Day 5 - Arrays
-- [ ] Learn array creation
-- [ ] Learn array methods: push, pop, shift, unshift
-- [ ] Learn forEach, map, filter
-- [ ] Practice 10 array tasks
+- [x] Learn array creation
+- [x] Learn array methods: push, pop, shift, unshift
+- [x] Learn forEach, map, filter
+- [x] Practice 10 array tasks
 
 ### Day 6 - Objects
 - [ ] Learn object literal syntax
