@@ -9,11 +9,11 @@ Welcome to my structured backend development journey!
 | Month | Focus Area | Status |
 |-------|-----------|--------|
 | Month 1 | Foundations: JavaScript, Node.js, Git, HTTP | [ ] In Progress |
-| Month 2 | Databases: SQL, MongoDB, ORMs | [ ] Not Started |
-| Month 3 | REST APIs, Express.js, Middleware | [ ] Not Started |
-| Month 4 | WebSockets, Caching, File Uploads | [ ] Not Started |
-| Month 5 | Security, Docker, CI/CD | [ ] Not Started |
-| Month 6 | System Design, Interview Prep | [ ] Not Started |
+├── month-2-details.md     # Python + SQL + FYP: Database Layer
+├── month-3-details.md     # FastAPI + Redis + FYP: Task Queue
+├── month-4-details.md     # RabbitMQ + Microservices + FYP: Gateway
+├── month-5-details.md     # Docker + Kubernetes + FYP: Deployment
+└── month-6-details.md     # System Design + Interview + FYP: Production
 
 ---
 
@@ -32,49 +32,70 @@ Welcome to my structured backend development journey!
 - [ ] Complete Notes API project
 - [ ] **[View Week-by-Week Details →](./month-1-details.md)**
 
-### Month 2: Databases
-- [ ] Learn SQL basics
+### Month 2: Python & Databases
+- [ ] Learn Python basics
+- [ ] Learn SQL (PostgreSQL)
 - [ ] Learn MongoDB basics
-- [ ] Learn Mongoose/Sequelize
-- [ ] Connect database to Node.js
-- [ ] Build CRUD with database
-- [ ] Learn authentication basics
+- [ ] Build REST API with FastAPI
+- [ ] Design FYP database schema
+- [ ] Implement User Authentication (JWT)
+- [ ] Deploy database on cloud (Railway/Supabase)
+- [ ] **[View Details →](./month-2-details.md)**
 
-### Month 3: Express.js & Advanced APIs
-- [ ] Learn Express.js
-- [ ] Learn routing
-- [ ] Learn middleware
-- [ ] Learn error handling
-- [ ] Build full REST API
-- [ ] Learn JWT authentication
+---
 
-### Month 4: Real-time & Performance
-- [ ] Learn WebSockets (Socket.io)
-- [ ] Learn caching (Redis)
-- [ ] Learn file uploads
-- [ ] Learn rate limiting
-- [ ] Build chat application
+### Month 3: FastAPI & Task Engine
+- [ ] Advanced FastAPI (middleware, dependencies)
+- [ ] Learn Redis (caching, pub/sub)
+- [ ] Learn Celery (task queues)
+- [ ] Build Task Engine (Python)
+- [ ] Integrate with FYP
+- [ ] Deploy FastAPI + Redis
+- [ ] **[View Details →](./month-3-details.md)**
 
-### Month 5: Security & Deployment
-- [ ] Learn security best practices
-- [ ] Learn Docker basics
-- [ ] Learn CI/CD
-- [ ] Deploy application (Heroku/Railway)
-- [ ] Learn environment variables
+---
 
-### Month 6: System Design & Career
-- [ ] Learn system design basics
-- [ ] Learn load balancing
-- [ ] Learn database scaling
-- [ ] Build portfolio project
-- [ ] Prepare for interviews
-- [ ] Update resume/LinkedIn
+### Month 4: API Gateway & Microservices
+- [ ] Node.js microservices architecture
+- [ ] Learn RabbitMQ (message broker)
+- [ ] Build API Gateway (Node.js)
+- [ ] Service discovery
+- [ ] Rate limiting & load balancing
+- [ ] Connect all FYP components
+- [ ] Deploy microservices
+- [ ] **[View Details →](./month-4-details.md)**
+
+---
+
+### Month 5: Docker & Kubernetes
+- [ ] Learn Docker (containers, images)
+- [ ] Docker Compose
+- [ ] Learn Kubernetes (pods, services, deployments)
+- [ ] Containerize all FYP services
+- [ ] Kubernetes deployment
+- [ ] CI/CD pipeline (GitHub Actions)
+- [ ] Deploy on cloud (AWS/GCP)
+- [ ] **[View Details →](./month-5-details.md)**
+
+---
+
+### Month 6: Production & Interviews
+- [ ] System design fundamentals
+- [ ] Performance optimization
+- [ ] Monitoring & logging
+- [ ] Security best practices
+- [ ] Write tests (unit, integration, E2E)
+- [ ] Complete FYP documentation
+- [ ] Deploy production version
+- [ ] Interview preparation
+- [ ] Portfolio & resume
+- [ ] **[View Details →](./month-6-details.md)**
 
 ---
 
 ## 🎯 Overall Progress
 
-- [ ] Month 1 Complete
+- [x] Month 1 Complete ✅
 - [ ] Month 2 Complete
 - [ ] Month 3 Complete
 - [ ] Month 4 Complete
@@ -85,16 +106,29 @@ Welcome to my structured backend development journey!
 
 ## 🛠️ Technologies Covered
 
-- Node.js / JavaScript
-- Git & GitHub
-- SQL / MongoDB
-- Express.js
-- JWT / OAuth
-- WebSockets
-- Redis
-- Docker
-- AWS / Deployment
+| Category | Technologies |
+|----------|-------------|
+| Languages | JavaScript, Python |
+| Backend | Node.js, FastAPI |
+| Databases | PostgreSQL, MongoDB |
+| Caching | Redis |
+| Queues | RabbitMQ, Celery |
+| Container | Docker, Kubernetes |
+| Cloud | AWS/GCP/Railway |
+| DevOps | GitHub Actions, CI/CD |
 
 ---
 
-**Let's build something amazing! 💪**
+## 🎓 Success Criteria
+
+- [ ] 6 working mini-projects (one per month)
+- [ ] FYP deployed on cloud
+- [ ] Portfolio with 3+ projects
+- [ ] 100+ GitHub commits
+- [ ] 1 Open Source contribution
+- [ ] System design interview ready
+- [ ] Job-ready backend portfolio
+
+---
+
+**Let's build something production-grade! 🚀**
