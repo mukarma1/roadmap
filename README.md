@@ -6,14 +6,15 @@ Welcome to my structured backend development journey!
 
 ## 📅 6-Month Overview
 
-| Month | Focus Area | Status |
-|-------|-----------|--------|
-| Month 1 | Foundations: JavaScript, Node.js, Git, HTTP | [ ] In Progress |
-├── month-2-details.md     # Python + SQL + FYP: Database Layer
-├── month-3-details.md     # FastAPI + Redis + FYP: Task Queue
-├── month-4-details.md     # RabbitMQ + Microservices + FYP: Gateway
-├── month-5-details.md     # Docker + Kubernetes + FYP: Deployment
-└── month-6-details.md     # System Design + Interview + FYP: Production
+| Month | Focus | FYP Component | Status |
+|-------|-------|---------------|--------|
+| Month 1 | JavaScript, Node.js, Git, HTTP | Setup & Planning | ✅ Complete |
+| Month 2 | Python, SQL, Database Design | Database Layer + Auth | 🔄 In Progress |
+| Month 3 | FastAPI, Redis, Task Queues | Task Engine (Python) | ⏳ Upcoming |
+| Month 4 | RabbitMQ, Microservices | API Gateway (Node.js) | ⏳ Upcoming |
+| Month 5 | Docker, Kubernetes, CI/CD | Containerization & Cloud | ⏳ Upcoming |
+| Month 6 | System Design, Testing, Interview | Production-Ready FYP | ⏳ Upcoming |
+
 
 ---
 
