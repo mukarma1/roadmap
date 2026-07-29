@@ -12,7 +12,7 @@
 
 ## 📊 Month 1 Progress
 
-- [ ] Week 1: Environment & JavaScript Basics
+- [x] Week 1: Environment & JavaScript Basics
 - [ ] Week 2: Control Flow & Data Structures
 - [ ] Week 3: Backend Concepts & First Server
 - [ ] Week 4: Git, GitHub & Mini Project
@@ -51,54 +51,54 @@
 - [x] Practice 10 array tasks
 
 ### Day 6 - Objects
-- [ ] Learn object literal syntax
-- [ ] Learn accessing properties
-- [ ] Learn adding/updating properties
-- [ ] Practice nested objects
+- [x] Learn object literal syntax
+- [x] Learn accessing properties
+- [x] Learn adding/updating properties
+- [x] Practice nested objects
 
 ### Day 7 - Revision
-- [ ] Revise all Week 1 topics
-- [ ] Solve 5 mixed JS questions
-- [ ] Push all notes to GitHub
+- [x] Revise all Week 1 topics
+- [x] Solve 5 mixed JS questions
+- [x] Push all notes to GitHub
 
 ---
 
 ## Week 2: Control Flow & Data Structures
 
 ### Day 8 - Conditionals
-- [ ] Learn `if` / `else if` / `else`
-- [ ] Learn `switch` statement
-- [ ] Learn ternary operator
+- [x] Learn `if` / `else if` / `else`
+- [x] Learn `switch` statement
+- [x] Learn ternary operator
 
 ### Day 9 - Loops
-- [ ] Learn `for`, `while`, `do...while` loops
-- [ ] Learn `for...of` and `for...in`
-- [ ] Practice 10 loop examples
+- [x] Learn `for`, `while`, `do...while` loops
+- [x] Learn `for...of` and `for...in`
+- [x] Practice 10 loop examples
 
 ### Day 10 - Scope & Hoisting
-- [ ] Understand global vs local scope
-- [ ] Learn block scope with `let` & `const`
-- [ ] Understand hoisting
+- [x] Understand global vs local scope
+- [x] Learn block scope with `let` & `const`
+- [x] Understand hoisting
 
 ### Day 11 - Array & Object Methods
-- [ ] Learn `find`, `findIndex`, `some`, `every`
-- [ ] Learn `reduce`
-- [ ] Learn `sort`
+- [x] Learn `find`, `findIndex`, `some`, `every`
+- [x] Learn `reduce`
+- [x] Learn `sort`
 
 ### Day 12 - Async Basics
-- [ ] Learn `setTimeout` and `setInterval`
-- [ ] Learn `Promise` basics
-- [ ] Learn `async/await` syntax
+- [x] Learn `setTimeout` and `setInterval`
+- [x] Learn `Promise` basics
+- [x] Learn `async/await` syntax
 
 ### Day 13 - Error Handling
-- [ ] Learn `try...catch` block
-- [ ] Learn `throw` statement
-- [ ] Learn `finally` block
+- [x] Learn `try...catch` block
+- [x] Learn `throw` statement
+- [x] Learn `finally` block
 
 ### Day 14 - Revision
-- [ ] Revise all Week 2 topics
-- [ ] Solve 10 mixed problems
-- [ ] Update README with progress
+- [x] Revise all Week 2 topics
+- [x] Solve 10 mixed problems
+- [x] Update README with progress
 
 ---
 
