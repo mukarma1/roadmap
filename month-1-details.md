@@ -13,7 +13,7 @@
 ## 📊 Month 1 Progress
 
 - [x] Week 1: Environment & JavaScript Basics
-- [ ] Week 2: Control Flow & Data Structures
+- [x] Week 2: Control Flow & Data Structures
 - [ ] Week 3: Backend Concepts & First Server
 - [ ] Week 4: Git, GitHub & Mini Project
 
@@ -105,33 +105,33 @@
 ## Week 3: Backend Concepts & First Server
 
 ### Day 15 - What is Backend?
-- [ ] Understand client-server architecture
-- [ ] Learn frontend vs backend
-- [ ] Learn about APIs
-- [ ] Understand HTTP methods
+- [x] Understand client-server architecture
+- [x] Learn frontend vs backend
+- [x] Learn about APIs
+- [x] Understand HTTP methods
 
 ### Day 16 - HTTP Deep Dive
-- [ ] Learn HTTP request/response structure
-- [ ] Learn status codes (200, 404, 500)
-- [ ] Learn headers
-- [ ] Learn POSTMAN basics
+- [x] Learn HTTP request/response structure
+- [x] Learn status codes (200, 404, 500)
+- [x] Learn headers
+- [x] Learn POSTMAN basics
 
 ### Day 17 - JSON & Data Formats
-- [ ] Learn JSON syntax
-- [ ] Learn `JSON.stringify()` and `JSON.parse()`
-- [ ] Practice JSON conversion
+- [x] Learn JSON syntax
+- [x] Learn `JSON.stringify()` and `JSON.parse()`
+- [x] Practice JSON conversion
 
 ### Day 18 - Terminal Basics
-- [ ] Learn `cd`, `ls`, `pwd`
-- [ ] Learn `touch`, `mkdir`
-- [ ] Learn `cp`, `mv`, `rm`
-- [ ] Practice terminal commands
+- [x] Learn `cd`, `ls`, `pwd`
+- [x] Learn `touch`, `mkdir`
+- [x] Learn `cp`, `mv`, `rm`
+- [x] Practice terminal commands
 
 ### Day 19 - First Node.js Server
-- [ ] Create `server.js` file
-- [ ] Import `http` module
-- [ ] Create server with `createServer()`
-- [ ] Handle request & response
+- [x] Create `server.js` file
+- [x] Import `http` module
+- [x] Create server with `createServer()`
+- [x] Handle request & response
 
 ### Day 20 - Simple API
 - [ ] Create `/` route with message
