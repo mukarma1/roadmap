@@ -14,8 +14,8 @@
 
 - [x] Week 1: Environment & JavaScript Basics
 - [x] Week 2: Control Flow & Data Structures
-- [ ] Week 3: Backend Concepts & First Server
-- [ ] Week 4: Git, GitHub & Mini Project
+- [x] Week 3: Backend Concepts & First Server
+- [x] Week 4: Git, GitHub & Mini Project
 
 ---
 
@@ -134,59 +134,59 @@
 - [x] Handle request & response
 
 ### Day 20 - Simple API
-- [ ] Create `/` route with message
-- [ ] Create `/about` route
-- [ ] Create `/api` route returning JSON
-- [ ] Handle 404 errors
+- [x] Create `/` route with message
+- [x] Create `/about` route
+- [x] Create `/api` route returning JSON
+- [x] Handle 404 errors
 
 ### Day 21 - Revision
-- [ ] Revise Week 3 topics
-- [ ] Build small practice server
-- [ ] Test all routes with POSTMAN
+- [x] Revise Week 3 topics
+- [x] Build small practice server
+- [x] Test all routes with POSTMAN
 
 ---
 
 ## Week 4: Git, GitHub & Mini Project
 
 ### Day 22 - Git Fundamentals
-- [ ] Learn `git status`, `git add`, `git commit`
-- [ ] Learn `git push`, `git pull`
-- [ ] Practice Git workflow
+- [x] Learn `git status`, `git add`, `git commit`
+- [x] Learn `git push`, `git pull`
+- [x] Practice Git workflow
 
 ### Day 23 - Git Branching
-- [ ] Learn `git branch`
-- [ ] Learn `git checkout -b branch-name`
-- [ ] Learn `git merge`
+- [x] Learn `git branch`
+- [x] Learn `git checkout -b branch-name`
+- [x] Learn `git merge`
 
 ### Day 24 - README Writing
-- [ ] Learn Markdown basics
-- [ ] Learn headings, lists, links
-- [ ] Learn task lists
-- [ ] Write project README
+- [x] Learn Markdown basics
+- [x] Learn headings, lists, links
+- [x] Learn task lists
+- [x] Write project README
 
 ### Day 25 - Plan Notes API
-- [ ] Design endpoints: GET, POST, PUT, DELETE
-- [ ] Plan data structure
-- [ ] Write API design document
+- [x] Design endpoints: GET, POST, PUT, DELETE
+- [x] Plan data structure
+- [x] Write API design document
 
 ### Day 26 - Build Notes API - Part 1
-- [ ] Setup server
-- [ ] Create GET `/notes` endpoint
-- [ ] Create POST `/notes` endpoint
-- [ ] Test with POSTMAN
+- [x] Setup server
+- [x] Create GET `/notes` endpoint
+- [x] Create POST `/notes` endpoint
+- [x] Test with POSTMAN
 
 ### Day 27 - Build Notes API - Part 2
-- [ ] Create GET `/notes/:id`
-- [ ] Create PUT `/notes/:id`
-- [ ] Create DELETE `/notes/:id`
-- [ ] Add error handling
+- [x] Create GET `/notes/:id`
+- [x] Create PUT `/notes/:id`
+- [x] Create DELETE `/notes/:id`
+- [x] Add error handling
 
 ### Day 28 - Month 1 Wrap-up
-- [ ] Revise all Month 1 topics
-- [ ] Test Notes API completely
-- [ ] Push everything to GitHub
-- [ ] Write Month 1 reflection
-- [ ] ✅ **Month 1 Complete!**
+- [x] Revise all Month 1 topics
+- [x] Test Notes API completely
+- [x] Push everything to GitHub
+- [x] Write Month 1 reflection
+- [x] ✅ **Month 1 Complete!**
 
 ---
 
