@@ -21,17 +21,17 @@ Welcome to my structured backend development journey!
 ## ✅ Month-by-Month Checklist
 
 ### Month 1: Foundations
-- [ ] Install Node.js and VS Code
-- [ ] Create GitHub repo
-- [ ] Learn JavaScript basics (variables, functions, arrays, objects)
-- [ ] Learn loops and conditionals
-- [ ] Learn async/await basics
-- [ ] Understand HTTP and JSON
-- [ ] Learn Git basics
-- [ ] Build first Node.js server
-- [ ] Create first simple API
-- [ ] Complete Notes API project
-- [ ] **[View Week-by-Week Details →](./month-1-details.md)**
+- [x] Install Node.js and VS Code
+- [x] Create GitHub repo
+- [x] Learn JavaScript basics (variables, functions, arrays, objects)
+- [x] Learn loops and conditionals
+- [x] Learn async/await basics
+- [x] Understand HTTP and JSON
+- [x] Learn Git basics
+- [x] Build first Node.js server
+- [x] Create first simple API
+- [x] Complete Notes API project
+- [x] **[View Week-by-Week Details →](./month-1-details.md)**
 
 ### Month 2: Python & Databases
 - [ ] Learn Python basics
